@@ -8,7 +8,7 @@ Prerequisites : Opencv 4.6 and Dynamixel C++ SDK
 
 How to download, build, and run on Jetson nano
 
-$ git clone 
+$ git clone https://github.com/2sungryul/lanefollow.git
 
 $ cd lanefollow
 
